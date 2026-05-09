@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=SDET+%40+Amazon+%7C+5%2B+Years+in+QA+Automation;AI-Powered+Testing+Tools+Builder;Python+%7C+Playwright+%7C+Pytest+%7C+Selenium;Self-Healing+Framework+%7C+LLM-Integrated+QA;Breaking+things+professionally+since+2020." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=5%2B+Years+in+QA+Automation;AI-Powered+Testing+Tools+Builder;Python+%7C+Playwright+%7C+Pytest+%7C+Selenium;Self-Healing+Framework+%7C+LLM-Integrated+QA;Breaking+things+professionally+since+2020." alt="Typing SVG" />
 </div>
 
 <br/>
