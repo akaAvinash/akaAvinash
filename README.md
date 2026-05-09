@@ -34,9 +34,9 @@
 class Avinash:
     name        = "Avinash Kumar K S"
     role        = "SDET / QA Automation Engineer"
-    company     = "Amazon Development Center, Chennai"
+    company     = "ex-Amazon Development Center, Chennai (Jan 2026)"
     experience  = "5+ years"
-    team_led    = "10-member QA team"
+    team_led    = "10-member DA team"
 
     focus       = [
         "AI-Powered Test Automation",
@@ -52,7 +52,7 @@ class Avinash:
     ]
 
     currently   = "Building: Self-Healing Automation Framework (Claude API + Playwright)"
-    open_to     = "Senior SDET | AI QA Engineer | Test Architect roles"
+    open_to     = "SDET | AI QA Engineer | Automation Engineer roles"
 ```
 
 ---
@@ -123,15 +123,6 @@ Intelligent image comparison engine that handles dynamic UI elements, ignoring n
 
 ---
 
-### 📡 Tech Trends PDF Agent
-> *GitHub Actions · Telegram Delivery*
-
-Automated agent that scrapes, summarizes, and delivers AI/tech trend reports as PDFs via Telegram bot on a scheduled cadence.
-
-`#github-actions` `#telegram-bot` `#python` `#automation`
-
----
-
 ## `$ cat achievements.log`
 
 ```
@@ -148,7 +139,6 @@ Automated agent that scrapes, summarizes, and delivers AI/tech trend reports as 
 
 ```yaml
 upskilling:
-  - ISTQB Foundation Certification
   - Cypress (E2E Testing)
   - Cucumber / BDD / Gherkin
   - Java (Strengthening for Enterprise QA)
@@ -189,7 +179,7 @@ building:
 | 💼 LinkedIn | [linkedin.com/in/avinashkumarks](https://linkedin.com/in/avinashkumarks) |
 | 🐙 GitHub | [github.com/akaAvinash](https://github.com/akaAvinash) |
 | 📍 Location | Chennai, India (Open to Remote / Dubai / Relocate) |
-| 🎯 Target Roles | Senior SDET · AI QA Engineer · Test Architect |
+| 🎯 Target Roles | SDET · AI QA Engineer · Automation Engineer |
 
 </div>
 
