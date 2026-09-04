@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:00D4FF&height=180&section=header&text=Avinash%20Kumar%20K%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%E2%86%92%20SDET%20%7C%20Python%20%26%20Test%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1B2A,100:00D4FF&amp;height=180&amp;section=header&amp;text=Avinash%20Kumar%20K%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=QA%20Engineer%20%E2%86%92%20SDET%20%7C%20Python%20%26%20Test%20Automation&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
 
 ## &nbsp;&nbsp;👋&nbsp; About
 
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
 
 ## &nbsp;&nbsp;🧪&nbsp; Tech Stack
 
@@ -41,51 +41,51 @@
 
 <sub>**Core — real, hands-on experience**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,git,docker,githubactions,jenkins,linux&theme=dark" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="47"/>
+<img src="https://skillicons.dev/icons?i=python,git,docker,githubactions,jenkins,linux&amp;theme=dark" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" height="47"/>
 
 <br/><br/>
 
 <sub>**Actively building — real work in progress (current sprint + roadmap)**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,selenium&theme=dark" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/OCR_(Tesseract)-4B8BBE?style=for-the-badge&logo=googlelens&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" height="47"/>
+<img src="https://skillicons.dev/icons?i=postgres,selenium&amp;theme=dark" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&amp;logo=k6&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/OCR_(Tesseract)-4B8BBE?style=for-the-badge&amp;logo=googlelens&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" height="47"/>
 
 <br/><br/>
 
 <sub>**Next up — target skills, roadmap-planned**</sub>
 <br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" height="47"/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&amp;logo=appium&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&amp;logo=apachejmeter&amp;logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&amp;logo=cucumber&amp;logoColor=white" height="47"/>
+<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
 
 ## &nbsp;&nbsp;📌&nbsp; Projects
 
 <div align="center">
 
 <a href="https://github.com/akaAvinash/failureIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&repo=failureIQ&theme=dark&hide_border=true&bg_color=0D1B2A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=failureIQ&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
 </a>
 <a href="https://github.com/akaAvinash/interview-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&repo=interview-agent&theme=dark&hide_border=true&bg_color=0D1B2A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=interview-agent&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
 </a>
 
 <a href="https://github.com/akaAvinash/homelab-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&repo=homelab-agent&theme=dark&hide_border=true&bg_color=0D1B2A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=homelab-agent&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
 </a>
 <a href="https://github.com/akaAvinash/tplink-vpn-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&repo=tplink-vpn-automation&theme=dark&hide_border=true&bg_color=0D1B2A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=tplink-vpn-automation&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
 </a>
 
 </div>
@@ -106,18 +106,18 @@
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
 
 ## &nbsp;&nbsp;📊&nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=akaAvinash&show_icons=true&hide_border=true&theme=dark&bg_color=0D1B2A&title_color=00D4FF&icon_color=00D4FF&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaAvinash&layout=compact&hide_border=true&theme=dark&bg_color=0D1B2A&title_color=00D4FF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=akaAvinash&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;bg_color=0D1B2A&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaAvinash&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;bg_color=0D1B2A&amp;title_color=00D4FF" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
 
 ## &nbsp;&nbsp;🏆&nbsp; Recognition
 
@@ -129,4 +129,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0D1B2A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:0D1B2A&amp;height=100&amp;section=footer" width="100%"/>
