@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1B2A,100:00D4FF&amp;height=180&amp;section=header&amp;text=Avinash%20Kumar%20K%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=QA%20Engineer%20%E2%86%92%20SDET%20%7C%20Python%20%26%20Test%20Automation&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+# Avinash Kumar K S
+
+### QA Engineer → SDET · Python & Test Automation
 
 </div>
 
@@ -14,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
+---
 
 ## &nbsp;&nbsp;👋&nbsp; About
 
@@ -33,7 +35,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
+---
 
 ## &nbsp;&nbsp;🧪&nbsp; Tech Stack
 
@@ -68,56 +70,35 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
+---
 
 ## &nbsp;&nbsp;📌&nbsp; Projects
 
-<div align="center">
+**🔍 [failureIQ](https://github.com/akaAvinash/failureIQ)** — AI-powered QA investigation engine (Python) that root-causes failing tests using the Claude API, with a framework-agnostic plugin architecture (pytest/Playwright, Robot Framework, generic JSON).
 
-<a href="https://github.com/akaAvinash/failureIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=failureIQ&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
-</a>
-<a href="https://github.com/akaAvinash/interview-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=interview-agent&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
-</a>
+**🎙️ [Interview Agent](https://github.com/akaAvinash/interview-agent)** — Autonomous interview-prep agent (FastAPI, Streamlit, Claude API) that generates and conducts tailored mock interviews from a resume + job description.
 
-<a href="https://github.com/akaAvinash/homelab-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=homelab-agent&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
-</a>
-<a href="https://github.com/akaAvinash/tplink-vpn-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAvinash&amp;repo=tplink-vpn-automation&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1B2A" />
-</a>
+**🏠 [homelab-agent](https://github.com/akaAvinash/homelab-agent)** — Self-hosted AI monitoring/auto-remediation agent combining a local LLM with Claude API escalation, built with a safety-first, whitelist-only execution model.
 
-</div>
+**🌐 [tplink-vpn-automation](https://github.com/akaAvinash/tplink-vpn-automation)** — Playwright-based browser automation for a router setting, deployed as an unattended scheduled service with layered retry logic.
 
-<table>
-<tr><td>
+**📦 [DeviceOps](https://github.com/akaAvinash/DeviceOps)** *(in progress)* — Simulated OTA/device-fleet management system, built end-to-end: FastAPI + SQL backend, Playwright + pytest + API tests + k6 load testing + OCR validation, with an AI self-healing/failure-summary layer planned.
 
-**🔍 failureIQ** — AI-powered QA investigation engine (Python) that root-causes failing tests using the Claude API, with a framework-agnostic plugin architecture (pytest/Playwright, Robot Framework, generic JSON).
-
-**🎙️ Interview Agent** — Autonomous interview-prep agent (FastAPI, Streamlit, Claude API) that generates and conducts tailored mock interviews from a resume + job description.
-
-**🏠 homelab-agent** — Self-hosted AI monitoring/auto-remediation agent combining a local LLM with Claude API escalation, built with a safety-first, whitelist-only execution model.
-
-**🌐 tplink-vpn-automation** — Playwright-based browser automation for a router setting, deployed as an unattended scheduled service with layered retry logic.
-
-**📦 DeviceOps** *(in progress)* — Simulated OTA/device-fleet management system, built end-to-end: FastAPI + SQL backend, Playwright + pytest + API tests + k6 load testing + OCR validation, with an AI self-healing/failure-summary layer planned.
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
+---
 
 ## &nbsp;&nbsp;📊&nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=akaAvinash&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;bg_color=0D1B2A&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaAvinash&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;bg_color=0D1B2A&amp;title_color=00D4FF" />
+[![GitHub followers](https://img.shields.io/github/followers/akaAvinash?style=for-the-badge&color=00D4FF&labelColor=0D1B2A)](https://github.com/akaAvinash)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akaAvinash&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=00D4FF&labelColor=0D1B2A)](https://github.com/akaAvinash?tab=repositories)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akaAvinash&label=Member%20Since&query=$.created_at&style=for-the-badge&color=00D4FF&labelColor=0D1B2A)](https://github.com/akaAvinash)
+
+<sub>Full stats and activity on my <a href="https://github.com/akaAvinash?tab=repositories">GitHub profile</a></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1B2A&amp;height=2&amp;width=100%25"/>
+---
 
 ## &nbsp;&nbsp;🏆&nbsp; Recognition
 
@@ -129,4 +110,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:0D1B2A&amp;height=100&amp;section=footer" width="100%"/>
+<div align="center">
+
+<sub>Thanks for stopping by 👋</sub>
+
+</div>
